@@ -5,6 +5,8 @@ import android.os.Bundle;
 import it.unibs.sandroide.lib.activities.SandroideBaseActivity;
 
 public class MainActivity extends SandroideBaseActivity {
+    private BLE
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
